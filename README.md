@@ -8,4 +8,3 @@ The Dutch Decay Game Theory model
 * The output is distributable as a spreadsheet or in image format
 
 ![GitHub Logo](https://raw.githubusercontent.com/jeroencarelse/DutchDecay/master/Resources/Book%20Design/Neerwaarts%20Nederland%20BW%20Illustrations%20Animated.png)
-Format: ![Alt Text](url)
