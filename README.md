@@ -1,6 +1,6 @@
 # DutchDecay
 The Dutch Decay Game Theory model
-*Emphasize* Dutch Decay - The Political Ecosystem
+*Dutch Decay - The Political Ecosystem*
 ## The Objectives
 * Create a universal modelling tool to simulate The Political Ecosystem
 * Let people put in data and simulate the outcomes
